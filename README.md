@@ -10,7 +10,7 @@ Shadow Orchestrator is a comprehensive template system that enables semantic orc
 
 **Option A: One-line install (Recommended)**
 ```bash
-curl -sSL https://raw.githubusercontent.com/yourusername/shadow-orchestrator/main/install.sh | bash
+curl -sSL https://raw.githubusercontent.com/xpriment626/shadow-orchestra/main/install.sh | bash
 ```
 
 **Option B: Manual setup**

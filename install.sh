@@ -3,7 +3,7 @@
 # Shadow Orchestrator Installation Script
 set -e
 
-REPO_URL="https://api.github.com/repos/yourusername/shadow-orchestra/contents"
+REPO_URL="https://api.github.com/repos/xpriment626/shadow-orchestra/contents"
 CLAUDE_MD_URL="$REPO_URL/CLAUDE.md"
 
 echo "🎭 Installing Shadow Orchestrator..."

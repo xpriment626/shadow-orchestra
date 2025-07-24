@@ -1,8 +1,8 @@
-# 🎭 Shadow Orchestra
+# 🎭 Shadow Orchestrator
 
 > **Coordinate specialized AI agents for production-grade software development**
 
-Shadow Orchestra is a comprehensive template system that enables semantic orchestration of specialized AI agents. Instead of generic prompting, invoke expert roles with specific knowledge, methodologies, and best practices for every aspect of software development.
+Shadow Orchestrator is a comprehensive template system that enables semantic orchestration of specialized AI agents. Instead of generic prompting, invoke expert roles with specific knowledge, methodologies, and best practices for every aspect of software development.
 
 ## 🚀 Quick Start
 
@@ -150,7 +150,7 @@ Security: Rate limiting, input validation
 Testing: Auth flow E2E tests
 QA: Security scan passed
 
-🤖 Generated with Shadow Orchestra"
+🤖 Generated with Shadow Orchestrator"
 ```
 
 ## 🎨 Customization

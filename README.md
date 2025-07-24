@@ -6,7 +6,14 @@ Shadow Orchestrator is a comprehensive template system that enables semantic orc
 
 ## 🚀 Quick Start
 
-### 1. **Copy to Your AI Platform**
+### 1. **Installation**
+
+**Option A: One-line install (Recommended)**
+```bash
+curl -sSL https://raw.githubusercontent.com/yourusername/shadow-orchestrator/main/install.sh | bash
+```
+
+**Option B: Manual setup**
 - **Claude Code**: Copy `CLAUDE.md` to your project directory
 - **ChatGPT/Other**: Copy the entire repository or specific role files
 - **API Integration**: Use the role templates in your custom AI workflows

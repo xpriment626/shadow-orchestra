@@ -51,6 +51,8 @@ curl -sSL https://raw.githubusercontent.com/xpriment626/shadow-orchestra/master/
 | **[ML Engineer](roles/ml_engineer.md)** | Machine learning, model deployment | Training pipelines, model serving |
 | **[Data Engineer](roles/data_engineer.md)** | Data pipelines, ETL, streaming | Airflow DAGs, data quality frameworks |
 | **[Security Engineer](roles/security_engineer.md)** | Security audits, compliance | Vulnerability assessments, GDPR compliance |
+| **[Product Writer](roles/product_writer.md)** | Technical storytelling, product communication | Feature docs, API narratives, newsletters |
+| **[Copy Editor](roles/copyeditor.md)** | AI text humanization, natural language | Human-scored content, conversational writing |
 | **[Git Specialist](roles/git_specialist.md)** | Version control, automated workflows | Logical commits, conventional messages |
 
 ## 🎯 Core Features

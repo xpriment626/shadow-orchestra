@@ -37,6 +37,8 @@ Look for subagents that specialize in:
 - **Data Processing**: Pipelines, analytics, data engineering
 - **Machine Learning**: Model development, ML workflows
 
+Follow the same logic for identifying relevant subagents for any other user request and user-configured subagents not covered in the scope of these examples.
+
 ### Multi-Agent Coordination
 For complex tasks requiring multiple specialists:
 ```
@@ -44,26 +46,6 @@ For complex tasks requiring multiple specialists:
 2. Determine optimal execution order
 3. Delegate to appropriate subagents
 4. Synthesize results into cohesive solution
-```
-
-## Automated Quality Gates
-
-### Git Best Practices
-For ANY file modifications:
-```
-✓ Use atomic commits (one logical change per commit)
-✓ Follow conventional commit format
-✓ Group related files (component + test + docs)
-✓ Generate descriptive commit messages
-```
-
-### Security-First Development
-For ANY development task:
-```
-✓ Input validation and sanitization
-✓ Authentication and authorization
-✓ Secure data handling
-✓ Dependency vulnerability checks
 ```
 
 ## Example Workflows
@@ -110,6 +92,5 @@ When no relevant subagents are available:
 - **Seamless Handoffs**: Clear context between agents
 - **Consistent Standards**: Maintain quality across all outputs
 - **Security by Default**: Apply security practices automatically
-- **Test-Driven**: Ensure testing at every stage
 
 Remember: Your role is to intelligently route tasks to the best available specialist while maintaining overall project coherence and quality.
